@@ -1,16 +1,55 @@
-# React + Vite
+(๑ᵔ⤙ᵔ๑)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Personal portfolio. A place for the things I've built, what I've learned along the way, and a bit about me.
 
-Currently, two official plugins are available:
+Live site: TBD :P
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## About 𓇢𓆸
 
-## React Compiler
+I made this site to showcase my work in one place! It's a work in progress and will probably stay that way.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## What's Inside
 
-## Expanding the ESLint configuration
+- **Home**: a short intro
+- **About**: more about me
+- **Contact**: how to reach me
+- **Projects**: things I've built
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Built With
+
+| Tool | Used for |
+| --- | --- |
+| HTML / CSS / JS | Foundation |
+| React | Building the site |
+| Figma | Mockups and styling |
+| Vercel | Deployment |
+
+## Running Locally ᯣ_ᯣ
+
+```bash
+git clone https://github.com/your-username/your-repo.git
+cd your-repo
+npm install
+npm start
+```
+
+Then open `http://localhost:3000`.
+
+## Ideas ꒰ᵕ༚ᵕ⑅꒱ˀˀ 
+
+A running list of things I want to add or try.
+
+### To Do
+- [ ] Gallery (Art & Photos)
+- [ ] Bookshelf
+- [ ] Multiple languages
+
+### In Progress
+- [ ] Light mode toggle
+
+### Notes and Inspiration
+Links, sketches, and sites I like:
+- https://www.gazijarin.com/
+- https://p5aholic.me/projects/
+- https://leehsportfolio.com/
+
