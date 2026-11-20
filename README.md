@@ -35,8 +35,6 @@ npm start
 
 Then open `http://localhost:3000`.
 
----
-
 ## Ideas ꒰ᵕ༚ᵕ⑅꒱ˀˀ 
 
 A running list of things I want to add or try.
@@ -51,4 +49,7 @@ A running list of things I want to add or try.
 
 ### Notes and Inspiration
 Links, sketches, and sites I like:
+- https://www.gazijarin.com/
+- https://p5aholic.me/projects/
+- https://leehsportfolio.com/
 
