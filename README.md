@@ -4,9 +4,7 @@ Personal portfolio. A place for the things I've built, what I've learned along t
 
 Live site: TBD :P
 
----
-
-## About
+## About 𓇢𓆸
 
 I made this site to showcase my work in one place! It's a work in progress and will probably stay that way.
 
@@ -22,11 +20,11 @@ I made this site to showcase my work in one place! It's a work in progress and w
 | Tool | Used for |
 | --- | --- |
 | HTML / CSS / JS | Foundation |
-| [Framework] | [What it does] |
-| [Design tool] | Mockups and styling |
-| [Hosting] | Deployment |
+| React | Building the site |
+| Figma | Mockups and styling |
+| Vercel | Deployment |
 
-## Running Locally
+## Running Locally ᯣ_ᯣ
 
 ```bash
 git clone https://github.com/your-username/your-repo.git
@@ -39,7 +37,7 @@ Then open `http://localhost:3000`.
 
 ---
 
-## Ideas
+## Ideas ꒰ᵕ༚ᵕ⑅꒱ˀˀ 
 
 A running list of things I want to add or try.
 
